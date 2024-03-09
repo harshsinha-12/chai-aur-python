@@ -1,6 +1,6 @@
 print("chai aur python")
 
-def chai(n):
+def chai(n : int):
     print("chai"*n)
 
 chai(3)
