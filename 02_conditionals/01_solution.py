@@ -1,4 +1,4 @@
-age = int(input("Enter your age: "))
+age : int = int(input("Enter your age: "))
 if age < 13:
     print("You are a child")
 elif age >= 13 and age < 20:
