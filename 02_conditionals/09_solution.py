@@ -1,4 +1,4 @@
-y = int(input("Enter the year: "))
+y : int = int(input("Enter the year: "))
 
 if y % 4 == 0:
     if y % 100 == 0:
