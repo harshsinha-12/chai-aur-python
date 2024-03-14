@@ -3,6 +3,6 @@ if colour == 'green':
     print('It is unripe')
 elif colour == 'yellow':
     print('It is ripe')
-else:
+elif colour == 'brown':
     print('It is overripe')
 
