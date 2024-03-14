@@ -1,5 +1,5 @@
-age = int(input('Enter your age: '))
-day = input('Enter the day of the week: ')
+age : int = int(input('Enter your age: '))
+day : str = input('Enter the day of the week: ')
 
 price = 0
 
