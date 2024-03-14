@@ -4,4 +4,4 @@ if weather == 'rainy':
 elif weather == 'sunny':
     print('Go for a walk')
 elif weather == 'snowy':
-    print('Build a snowman')
+    print('Build a Snowman')
