@@ -1,6 +1,6 @@
-a = 0
-b = 1
-n : int = int(input("Enter the upper limit: "))
-while a < n:
-    print(a)
-    a, b = b, a+b
+n : int = int(input("Enter the number for factorial: "))
+fact = 1
+while n > 0:
+    fact = fact * n
+    n = n - 1
+print(fact)
