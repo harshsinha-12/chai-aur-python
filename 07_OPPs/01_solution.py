@@ -26,3 +26,9 @@ print(my_new_car.price)
 # self parameter is a reference to the current instance of the class, and is used to access variables that belongs to the class
 # __init__ method is used to initialize the object's state
 # __init__ method is called constructor method in Python
+# class is a blueprint for creating objects
+# object is an instance of a class
+# class is a collection of objects
+# object is a collection of variables and methods
+# class is a collection of variables and methods
+# method is a function that belongs to a class
